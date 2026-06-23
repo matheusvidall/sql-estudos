@@ -1,4 +1,3 @@
-```sql
 -- operadores e filtros
 -- tabela usada: sales.customers
 
